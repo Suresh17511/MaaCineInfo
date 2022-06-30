@@ -1,10 +1,12 @@
 import React from 'react';
 import {View, Text} from 'react-native';
 
-const App = () => {
+interface AppProps {}
+
+const App: React.FC<AppProps> = () => {
   return (
     <View>
-      <Text>Hello World...!</Text>
+      <Text>Hello World...!!! Added typescript</Text>
     </View>
   );
 };
