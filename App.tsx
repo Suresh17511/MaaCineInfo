@@ -1,13 +1,14 @@
+import { NavigationContainer } from '@react-navigation/native';
 import React from 'react';
-import { View, Text } from 'react-native';
+import DecideAuthNavigator from './src/navigators/DecideAuthNavigator';
 
 interface AppProps {}
 
 const App: React.FC<AppProps> = () => {
     return (
-        <View>
-            <Text>Hello World...!!! Added typescript</Text>
-        </View>
+        <NavigationContainer>
+            <DecideAuthNavigator />
+        </NavigationContainer>
     );
 };
 
