@@ -1,0 +1,72 @@
+{
+    "font-primary-thin": {
+        "fontFamily": "DINNextRoundedLTPro-Light"
+    },
+    "font-primary-regular": {
+        "fontFamily": "DINNextRoundedLTPro-Regular"
+    },
+    "font-primary-medium": {
+        "fontFamily": "DINNextRoundedLTPro-Medium"
+    },
+    "signature": {
+        "fontFamily": "Allura-Regular"
+    },
+    "border-width-0": {
+        "borderWidth": 0
+    },
+    "border-width-1": {
+        "borderWidth": 1
+    },
+    "text-1\\.5xs": {
+        "fontSize": 10
+    },
+    "text-2xs": {
+        "fontSize": 9
+    },
+    "fs-18": {
+        "fontSize": 18
+    },
+    "text-2\\.5xl": {
+        "fontSize": 28,
+        "lineHeight": 34
+    },
+    "leading-4\\.5": {
+        "lineHeight": 18
+    },
+    "max-w-160": {
+        "maxWidth": 160
+    },
+    "shadow-top": {
+        "shadowColor": "#000",
+        "shadowOffset": {
+            "width": 0,
+            "height": -5
+        },
+        "shadowOpacity": 0.1,
+        "shadowRadius": 5,
+        "elevation": 5
+    },
+    "shadow": {
+        "shadowColor": "#000",
+        "shadowOffset": {
+            "width": 0,
+            "height": 0
+        },
+        "shadowOpacity": 0.1,
+        "shadowRadius": 5,
+        "elevation": 5
+    },
+    "shadow-modal": {
+        "shadowColor": "#000",
+        "shadowOffset": {
+            "width": 0,
+            "height": 2
+        },
+        "shadowOpacity": 0.25,
+        "shadowRadius": 4,
+        "elevation": 5
+    },
+    "left-29": {
+        "left": 115
+    }
+}
